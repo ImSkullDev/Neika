@@ -1,7 +1,7 @@
 .background-gradient {
     height: 125vh;
     width: 99%;
-    background-image: linear-gradient(360deg, #aa00ff, ff00fa);
+    background-image: linear-gradient(360deg, #aa00ff, #ff00fa);
 }
 
 p {
